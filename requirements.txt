@@ -1,0 +1,8 @@
+gspread
+pandas
+openai
+faiss-cpu
+python-dotenv
+fastapi
+uvicorn
+pydantic 
