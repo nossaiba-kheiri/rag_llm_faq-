@@ -1,4 +1,4 @@
-# Hawala FAQ RAG Backend
+# FAQ RAG Backend
 
 This project is a Retrieval-Augmented Generation (RAG) backend for answering FAQ and financial questions using OpenAI and Google Sheets.
 
