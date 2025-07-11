@@ -20,7 +20,7 @@ This project is a Retrieval-Augmented Generation (RAG) backend for answering FAQ
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nossaiba-kheiri/rag_llm_faq-.git
 cd ameenai
 ```
 
